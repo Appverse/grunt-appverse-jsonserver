@@ -1,4 +1,4 @@
-## [Appverse](http://appverse.org/)
+## [Appverse](http://appverse.org/#)
 ![](http://appversed.files.wordpress.com/2012/12/logo.png)
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
